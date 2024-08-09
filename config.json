@@ -28,7 +28,7 @@
   "GENDER": "MALE",
   "nickNameBot": "ミ★𝐒𝐎𝐍𝐈𝐂✄𝐄𝐗𝐄★彡",
   "FACEBOOK": "https://www.facebook.com/profile.php?id=100090405019929",
-  "prefix": "#",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
