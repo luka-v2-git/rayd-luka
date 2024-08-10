@@ -17,18 +17,18 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100090405019929"],
+    "61553585482906"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "ʬʆʬ Sønïč Shïsûį ʬɸʬ",
-  "AGE": "16",
+  "OWNER": "ʬʆʬ rayd ʬɸʬ",
+  "AGE": "14",
   "GENDER": "MALE",
-  "nickNameBot": "ミ★𝐒𝐎𝐍𝐈𝐂✄𝐄𝐗𝐄★彡",
-  "FACEBOOK": "https://www.facebook.com/profile.php?id=100090405019929",
-  "prefix": "!",
+  "nickNameBot": "☯ 𝐑𝐚𝐲𝐝 𝐛𝐨𝐭☯",
+  "FACEBOOK": "https://www.facebook.com/profile.php?id=61553585482906",
+  "prefix": "°",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
